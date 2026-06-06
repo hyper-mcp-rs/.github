@@ -29,7 +29,7 @@ These plugins use the v1 plugin interface. While still supported, new plugins sh
 ### V2 Plugins
 These plugins use the v2 plugin interface. New plugins should use this interface.
 
-- [arxiv](https://github.com/hyper-mcp-rs/arxiv-plugin): Search (Rust)
+- [arxiv](https://github.com/hyper-mcp-rs/arxiv-plugin): Search arXiv papers (Rust)
 - [context7](https://github.com/hyper-mcp-rs/context7-plugin): Lookup library documentation (Rust)
 - [defuddle](https://github.com/hyper-mcp-rs/defuddle-plugin): Get the main content of any page as Markdown (Rust)
 - [fetch](https://github.com/hyper-mcp-rs/fetch-plugin): Basic webpage fetching (Rust)
