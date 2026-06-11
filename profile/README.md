@@ -43,3 +43,13 @@ These plugins use the v2 plugin interface. New plugins should use this interface
 - [release-monitor-id](https://github.com/ntheanh201/hyper-mcp-release-monitor-id-tool): This plugin retrieves project ID from release-monitoring.org, which helps track versions of released software.
 - [yahoo-finance](https://github.com/phamngocquy/hyper-mcp-yfinance): This plugin connects to the Yahoo Finance API to provide stock prices (OHLCV) based on a company name or ticker symbol.
 - [rand16](https://github.com/dabevlohn/rand16): This plugen generates random 16 bytes buffer and provides it in base64uri format - very usable for symmetric cryptography online.
+
+## Sponsors
+
+Thank you to the organizations that support hyper-mcp. ❤️
+
+<p>
+  <a href="https://guidewaycare.com" target="_blank">
+    <img src="https://guidewaycare.com/wp-content/uploads/2025/03/guideway-care-logo-2025.svg" alt="Guideway Care" height="60">
+  </a>
+</p>
